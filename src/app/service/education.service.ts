@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class EducationService {
 
-  private apiUrl = 'http://13.235.91.237:3000';
+  private apiUrl = 'http://65.0.75.46:3000';
 
   constructor(private http: HttpClient) { }
 
